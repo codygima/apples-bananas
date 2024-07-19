@@ -30,3 +30,5 @@ To use this program, follow these steps:
 
 Your default browser should open the project on a live server that updates in real-time. Now you can see how I made this simple website and can make slight changes to the code to discover what can be done with HTML, CSS, and JavaScript!
 
+## Back to Main Repository:
+https://github.com/codygima/ARL_Project.git
